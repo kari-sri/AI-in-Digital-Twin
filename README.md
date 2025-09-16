@@ -1,4 +1,4 @@
-# Digital Twin Research — 6G & Cyber-Resilience
+# Digital Twin literature review: AI-driven Digital Twin capabilities, impacts on 6G and strategies for cyber-resilience.
 
 This repository contains our group paper on **Digital Twin and its contributions to 6G and Cyber-Resilience**.
 
